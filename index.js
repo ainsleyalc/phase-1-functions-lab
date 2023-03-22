@@ -39,4 +39,4 @@ function distanceFromHqInBlocks (someValue) {
     }
     else if (distance > 2500){
       return "cannot travel that far";
-    }
+    }}
